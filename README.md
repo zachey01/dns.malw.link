@@ -1,10 +1,10 @@
 # dns.malw.link
 
 Здесь 4 ветки
-1. master - описание, файл hosts, mobileconfig
-2. dns-server - DNS сервер
-3. sni-proxy - SNI Proxy
-4. web - Веб-страницы (info.dns.malw.link)
+1. [master](https://github.com/ImMALWARE/dns.malw.link/tree/master) - описание, файл hosts, mobileconfig
+2. [dns-server](https://github.com/ImMALWARE/dns.malw.link/tree/dns-server) - DNS сервер
+3. [sni-proxy](https://github.com/ImMALWARE/dns.malw.link/tree/sni-proxy) - SNI Proxy
+4. [web](https://github.com/ImMALWARE/dns.malw.link/tree/web) - Веб-страницы (info.dns.malw.link)
 
 ## Как всё это запустить у себя?
 Предполагается, что DNS-сервер на одном сервере, а SNI Proxy на другом.
