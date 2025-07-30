@@ -2,11 +2,11 @@
 
 Здесь 5 веток:
 
-1. [master](master) — описание, файл hosts, mobileconfig
-2. [dns-server](dns-server) — DNS сервер
-3. [sni-proxy](sni-proxy) — SNI Proxy
-4. [dns-and-sni-proxy](dns-and-sni-proxy) — DNS сервер и SNI Proxy для установки на единственный сервер
-5. [web](web) — Веб-страницы ([info.dns.malw.link](https://info.dns.malw.link))
+1. [master](https://github.com/ImMALWARE/dns.malw.link/tree/master) — описание, файл hosts, mobileconfig
+2. [dns-server](https://github.com/ImMALWARE/dns.malw.link/tree/dns-server) — DNS сервер
+3. [sni-proxy](https://github.com/ImMALWARE/dns.malw.link/tree/sni-proxy) — SNI Proxy
+4. [dns-and-sni-proxy](https://github.com/ImMALWARE/dns.malw.link/tree/dns-and-sni-proxy) — DNS сервер и SNI Proxy для установки на единственный сервер
+5. [web](https://github.com/ImMALWARE/dns.malw.link/tree/web) — Веб-страницы ([info.dns.malw.link](https://info.dns.malw.link))
 
 ---
 
