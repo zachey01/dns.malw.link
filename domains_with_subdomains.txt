@@ -32,3 +32,8 @@ mongodb.com
 hybrid-analysis.com
 grokusercontent.com
 oaistatic.com
+clickup-attachments.com
+clickup-eu.com
+clickup-prod.com
+clickup-sg.com
+clickup.com
