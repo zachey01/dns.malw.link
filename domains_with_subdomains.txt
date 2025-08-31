@@ -37,3 +37,4 @@ clickup-eu.com
 clickup-prod.com
 clickup-sg.com
 clickup.com
+trae.ai
