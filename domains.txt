@@ -37,3 +37,6 @@ xgpuwebf2p.gssv-play-prod.xboxlive.com
 xsts.auth.xboxlive.com
 accounts.supercell.com
 i.dell.com
+afcs.dellcdn.com
+dds.dell.com
+nexus.dell.com
